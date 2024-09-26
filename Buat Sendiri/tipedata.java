@@ -11,7 +11,7 @@ public class tipedata {
         System.out.println("nama: "+namaSiswa);
         System.out.println("usia: "+usia+"th" );
         System.out.println("TinggiBadan: "+ TinggiBadan+"cm");
-        System.out.println("Status: Pacarnya Ratu");
+        System.out.println(");
         System.out.println("===============");
     }
 }

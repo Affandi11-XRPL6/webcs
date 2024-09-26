@@ -17,5 +17,6 @@ public static void main(String[] args) {
     
     System.out.println("luas : "+ Volume+ " cm3");
     System.out.println("LuasPermukaan : "+ LuasPermukaan+"cm3");
+    
 }
 }

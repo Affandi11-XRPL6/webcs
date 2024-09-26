@@ -11,6 +11,6 @@ boolean C= scn.nextBoolean();
 // System.out.println(A&B);
 System.out.println(A||B||C);
 // System.out.println(!A +" "+ !B +" "+ !C);
-
+ 
 }
 }
