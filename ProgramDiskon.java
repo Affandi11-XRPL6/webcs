@@ -26,7 +26,7 @@ Scanner input = new Scanner(System.in);
 
 System.out.println("Masukan Pembayaran : ");
     double bayar=input.nextDouble();
-    double diskon=0.05;
+    double diskon= bayar*0.05;
     double kembali=bayar-(total*diskon);
 
 System.out.println("Total diskon: "+diskon);
